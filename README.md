@@ -34,5 +34,5 @@ creaza liste de cele mai lungi cuvinte. Se creeaza task-uri de tip
 reduce pentru fiecare fisier, se creeaza un dictionar unic pentru
 fiecare fisier aparte, apoi se calculeaza rangul acestuia.
 
-    Thread-ul principal primeste rezulatele si le scrie in fisierul
+ Thread-ul principal primeste rezulatele si le scrie in fisierul
 de output.
